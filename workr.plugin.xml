@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.habariproject.org/pluggable/0.8">
+	<name>Workr</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	
+	<author url="http://morgante.net">Morgante Pell</author>
+	
+	<version>0.1</version>
+	<url>http://morgante.net/workr/</url>
+	<description><![CDATA[Creates the necessary hooks for a portfolio site running on Habari.]]></description>
+
+	<copyright>2013</copyright>
+	
+</pluggable>
